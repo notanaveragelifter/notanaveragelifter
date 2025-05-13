@@ -1,4 +1,4 @@
-for freelance work? do reach, [email](mailto:singhajeet2312@gmail.com) :)
+Want to hire me? hit me up, [email](mailto:singhajeet2312@gmail.com) :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
