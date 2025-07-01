@@ -4,7 +4,7 @@ Want to hire me? hit me up, [email](mailto:singhajeet2312@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-Node.js      20 hrs 3 mins   ██████████████████████▓░░   91.12 %
+typescript   20 hrs 3 mins   ██████████████████████▓░░   91.12 %
 SCSS         1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
 JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
