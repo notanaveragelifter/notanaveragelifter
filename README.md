@@ -4,11 +4,11 @@ Want to hire me? hit me up, [email](mailto:singhajeet2312@gmail.com) :)
 <!--START_SECTION:waka-->
 
 ```txt
-typescript   20 hrs 3 mins   ██████████████████████▓░░   91.12 %
-SCSS         1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   17 hrs 37 mins   █████████████████████░░░░   79.65 %
+C++           4 hrs 02 mins   ███████░░░░░░░░░░░░░░░░░░   18.26 %
+JSON          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+CSS            3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Other          1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
