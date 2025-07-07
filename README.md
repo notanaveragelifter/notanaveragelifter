@@ -28,7 +28,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
-![](https://github-contributor-stats.vercel.app/api?username=vikasbhagat84527&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=notanaveragelifter&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
