@@ -1,4 +1,4 @@
-hit me up, [email](mailto:singhajeet2312@gmail.com) :)
+Hit me up, [email](mailto:singhajeet2312@gmail.com) :)
 
 **this week i spent my time on:**
 <!--START_SECTION:waka-->
