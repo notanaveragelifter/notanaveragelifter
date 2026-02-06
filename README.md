@@ -21,7 +21,7 @@ Other          1 min          ░░░░░░░░░░░░░░░░�
 
  my github stats
 
-![]![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=notanaveragelifter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
+![](https://github-readme-stats.vercel.app/api?username=notanaveragelifter&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=notanaveragelifter&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notanaveragelifter&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=notanaveragelifter&label=Profile%20Views&color=3&icon=0&pretty=false)](https://visitcount.itsvg.in)
